@@ -184,9 +184,12 @@ body {
     background: rgba(0, 0, 0, 0.3);
 }
 
-.slide-1 { background-image: url('images/camara1.jpg'); }
-.slide-2 { background-image: url('images/camara2.jpg'); }
-.slide-3 { background-image: url('images/camara3.jpg'); }
+.slide-1 { background-image: url('../sources/fis1.png'); }
+.slide-2 { background-image: url('../sources/fis2.png'); }
+.slide-3 { background-image: url('../sources/fis3.png'); }
+.slide-4 { background-image: url('../sources/fis4.png'); }
+.slide-5 { background-image: url('../sources/aut2.png'); }
+.slide-6 { background-image: url('../sources/hacienda.png'); }
 
   .slide-info {
     padding: 20px;
